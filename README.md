@@ -1,4 +1,15 @@
 # 盘古数据分析引擎
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+现代化、敏捷的数据分析引擎，计划提供以下功能：
+
+
+
+* [ ] 用户管理
+* [ ] 权限管理
+* [ ] 固定报表
+* [ ] 即席查询
+* [ ] 多维分析
+* [ ] 数据挖掘
+
+
 
